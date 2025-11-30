@@ -24,7 +24,9 @@ That equals 12000$ every year
 📂 File Information
 -
 • Language: C++
+
 • File Name: monthly_loan_installment.cpp
+
 • Challenge Number: #48
 
 💬 Notes
