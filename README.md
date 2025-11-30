@@ -1,14 +1,19 @@
 📘 Algorithm Challenge #48 – Monthly Loan Installment
 -
 This challenge calculates the monthly and yearly payment required to pay off a loan within a user-defined number of months.
+
 It reinforces numeric division, basic financial logic, and handling user input in C++.
 
 💡 What You’ll Learn
 --
 • Reading numeric input using cin
+
 • Dividing total loan amount by repayment duration
+
 • Converting monthly payments into yearly totals
+
 • Formatting clear and readable output
+
 • Applying basic financial calculations in C++
 
 🧩 Example
