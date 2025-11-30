@@ -37,6 +37,7 @@ That equals 12000$ every year
 💬 Notes
 -
 This exercise is great for understanding how monthly installments work.
+
 It also strengthens numeric reasoning and beginner-friendly financial logic.
 
 🔗 Connect with me on LinkedIn
